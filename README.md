@@ -12,7 +12,7 @@ The quotes can be inspirational, motivational, or from various categories.
 * Option to share quotes on social media (if applicable).
 
 ## Technologies Used
-* HTML: Structure of the page.
+* HTML: Structure of the page. 
 * CSS: Styling and layout of the page.
 * JavaScript: Logic to fetch and display random quotes.
 
