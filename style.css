@@ -1,0 +1,53 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+    background-color: rgba(0, 0, 255, 0.612);
+}
+.Quote-box{
+    width: 500px;
+    background-color: azure;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 1.5em;
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    font-weight:900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.content{
+    padding: 30px;
+}
+.quote-area{
+    font-size: medium;
+    font-weight: 400;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.author{
+    padding: 10px;
+    text-align:right;
+    font-size: medium;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color:  rgba(0, 0, 255, 0.612);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 2em;
+}
+.symbol{
+    font-size: 20px;
+    font-weight: 600;
+}
+  
